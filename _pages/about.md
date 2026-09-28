@@ -32,7 +32,7 @@ My research covers natural language processing and machine learning, with a focu
 
 ## Publications
 
-(* denotes first-author contribution*)
+Junteng Liu is the first author of the first three publications.
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv).  
    *Junteng Liu*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
